@@ -46,8 +46,7 @@ It allows users to explore trending, upcoming, popular, and top-rated movies wit
 
 ### 🏠 Home Page
 
-<img width="100%" alt="Home Page" src="https://github.com/user-attachments/assets/home-page-image"/>
-
+https://kommodo.ai/i/V7Ybt2AOLltf1yh2vwOX
 ---
 
 ### 🎬 Movie Details Page
