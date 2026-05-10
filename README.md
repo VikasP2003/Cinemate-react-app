@@ -42,19 +42,6 @@ It allows users to explore trending, upcoming, popular, and top-rated movies wit
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-https://kommodo.ai/i/V7Ybt2AOLltf1yh2vwOX
----
-
-### 🎬 Movie Details Page
-
-<img width="100%" alt="Movie Details" src="https://github.com/user-attachments/assets/movie-details-image"/>
-
----
-
 ## 📂 Project Structure
 
 ```bash
